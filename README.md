@@ -20,19 +20,15 @@ O dashboard apresenta indicadores de aprendizagem, participação, desempenho po
 
 Apresenta os principais indicadores, como total de respostas, alunos ativos, taxa de acerto, tempo médio de resposta e evolução mensal do desempenho.
 
-![Visão Geral](imagens/visao_geral.png)
 
 ### 👥 Página 2 — Engajamento dos Estudantes
 
 Analisa a participação dos estudantes, volume de questões respondidas, classificação de engajamento e ranking dos alunos mais ativos.
 
-![Engajamento](imagens/engajamento.png)
 
 ### 🎯 Página 3 — Análise de Dificuldades
 
 Compara as taxas de acerto entre disciplinas e níveis de dificuldade, utilizando matrizes, indicadores e rankings para identificar conteúdos com menores índices de acerto.
-
-![Análise de Dificuldades](imagens/dificuldades.png)
 
 ## Modelagem de dados
 
@@ -63,7 +59,6 @@ Também possibilita investigar padrões de participação e concentração de at
 
 ## Como visualizar
 
-As imagens das três páginas estão disponíveis neste repositório.
 
 Para explorar os gráficos e filtros interativos, baixe o arquivo `Dashboard_Desempenho_Educacional.pbix` e abra-o no Power BI Desktop.
 
